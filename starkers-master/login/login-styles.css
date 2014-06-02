@@ -1,0 +1,23 @@
+body.login {
+  background: rgba(255,255,255,.5) url(/wp-content/uploads/2014/01/filenotfoundbg.png) center center repeat;
+}
+
+#login {
+min-width: 320px;
+padding: 8% 2% 4%;
+margin: auto;
+background: rgba(255,255,255,.89);
+max-width: 480px;
+}
+
+.login h1 a {
+background-image: url('../login/login-header.png');
+background-size: 310px 62px;
+width: 300px;
+height: 62px;
+padding: 0 0 15px 26px;
+}
+
+.login form {
+  background: rgba(190, 187, 181, .27);
+}
