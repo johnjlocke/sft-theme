@@ -731,6 +731,7 @@ h1, h2, h3, h4, h5, h6 {
 .design-by a {
   border-bottom: 1px solid transparent;
   color: #ff8a00;
+  font-size: 85%;
 }
 .design-by a:focus, .design-by a:hover {
   border-bottom: 1px solid #f15a25;
